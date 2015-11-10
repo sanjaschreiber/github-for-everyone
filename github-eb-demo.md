@@ -4,5 +4,5 @@ This is a sample github file.
 
 Time to play with Markdown.
 
-[ ] check
-[ ] check
+- [ ] check
+- [ ] check
